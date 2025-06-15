@@ -1,0 +1,7 @@
+.idea
+.venv
+pretrained_models
+checkpoints
+tif
+wandb
+__pycache__
