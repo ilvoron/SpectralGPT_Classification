@@ -1,6 +1,15 @@
-pip install streamlit torchvision rasterio matplotlib plotly timm einops scikit-image scikit-learn tensorboard wandb
-pip install torch==2.7.1+cu128 --index-url https://download.pytorch.org/whl/cu128
+Ссылка на GitHub
 
-OR
+https://github.com/ilvoron/SpectralGPT_Classification
 
-pip install streamlit torch torchvision rasterio matplotlib plotly timm einops scikit-image scikit-learn tensorboard wandb
+Ссылка на Weights & Biases
+
+https://wandb.ai/il-voron-moscow-aviation-institute/eurosat_spectralgpt_finetune
+
+Ссылка на предобученные веса
+
+https://disk.yandex.ru/d/X8wLPJ_sHZOEkA
+
+Ссыока на точечное обученные веса
+
+https://disk.yandex.ru/d/DPLbqrLWb2sMCw
