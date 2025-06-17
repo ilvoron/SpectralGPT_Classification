@@ -1,18 +1,22 @@
-Ссылка на GitHub
+Ссылка на GitHub:
 
 https://github.com/ilvoron/SpectralGPT_Classification
 
-Ссылка на Weights & Biases
+Ссылка на Weights & Biases:
 
 https://wandb.ai/il-voron-moscow-aviation-institute/eurosat_spectralgpt_finetune
 
-Ссылка на предобученные веса (ложить в папку `pretrained_models`)
+Ссылка на предобученные веса (ложить в папку `pretrained_models`):
 
 https://disk.yandex.ru/d/X8wLPJ_sHZOEkA
 
-Ссылка на точечно обученные веса (ложить в папку `checkpoints`)
+Ссылка на точечно обученные веса (ложить в папку `checkpoints`):
 
 https://disk.yandex.ru/d/DPLbqrLWb2sMCw
+
+Ссылка на датасет EuroSAT:
+
+https://github.com/phelber/EuroSAT (или сразу на скачивание: https://madm.dfki.de/files/sentinel/EuroSATallBands.zip)
 
 ---
 
