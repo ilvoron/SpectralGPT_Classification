@@ -10,6 +10,6 @@ https://wandb.ai/il-voron-moscow-aviation-institute/eurosat_spectralgpt_finetune
 
 https://disk.yandex.ru/d/X8wLPJ_sHZOEkA
 
-Ссыока на точечное обученные веса
+Ссылка на точечное обученные веса
 
 https://disk.yandex.ru/d/DPLbqrLWb2sMCw
