@@ -1,3 +1,13 @@
+Установка:
+
+1) убедитесь, что у вас есть python 3.13
+2) создайте среду
+3) затем у вас есть два варианта: либо использовать pytorch с cuda (намного быстрее), либо просто использовать обычный процессор (это нормально, если вы просто хотите использовать тонкую настройку модели для классификации)
+- [только cpu] `pip install streamlit torch torchvision rasterio matplotlib plotly timm einops scikit-image scikit-learn tensorboard wandb`
+- [gpu/cpu] `pip install torch==2.7.1+cu128 --index-url https://download.pytorch.org/whl/cu128 && pip install streamlit torchvision rasterio matplotlib plotly timm einops scikit-image scikit-learn tensorboard wandb`
+
+---
+
 Ссылка на GitHub:
 
 https://github.com/ilvoron/SpectralGPT_Classification
